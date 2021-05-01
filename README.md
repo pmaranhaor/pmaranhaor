@@ -18,5 +18,11 @@ Also, I'm very interested in the privacy and cybersecurity fields.
 ---
 
 If you want to chat, feel free to email me at britows@pm.me
-I'd love to get to know your story too! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/209/hot-beverage_2615.png" width="20px">
 
+I'd love to get to know your story too! <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="20px">
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5-logo" width="50px" height="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress-logo" width="50px" height="50px" />
