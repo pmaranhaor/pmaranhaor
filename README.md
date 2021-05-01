@@ -1,5 +1,5 @@
-### Hey you, I'm Paula Maranhão!
-<img src="https://media.giphy.com/media/EU1obAC38GuWI/giphy.gif">
+### Hey you, I'm Paula!
+<img src="https://media.giphy.com/media/EU1obAC38GuWI/giphy.gif" width="300px">
 
 <!--
 **pmaranhaor/pmaranhaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
