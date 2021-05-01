@@ -17,6 +17,6 @@ Also, I'm very interested in the privacy and cybersecurity fields.
 
 ---
 
-If you want to chat, feel free to email me: britows@pm.me .
+If you want to chat, feel free to email me at britows@pm.me
 I'd love to get to know your story too! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/209/hot-beverage_2615.png" width="20px">
 
